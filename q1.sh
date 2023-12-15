@@ -1,5 +1,5 @@
 #!/bin/bash
-  
+   
 # Check if there is exactly one command line argument
 if [ "$#" -ne 1 ]; then
     echo "Usage: $0 <positive_integer>"
